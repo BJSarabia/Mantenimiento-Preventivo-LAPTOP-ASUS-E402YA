@@ -1,0 +1,2 @@
+# Mantenimiento-Preventivo-LAPTOP-ASUS-E402YA
+El presente proyecto se realizo en la Universidad de las Fuerzas Armadas ESPE 💚❤️ por las estudiantes de la carrera Tecnología Superior en Redes y Telecomunicaciones 💙🤍. Antes de realizar un mantenimiento preventivo ya se a una laptop y/o PC 👩🏻‍💻💻🖥️se recomienda realizar una pequeña encuesta acerca del dispositivo 📝🔍, también llenar un formulario de características del mismo📝🔍. Finalmente procedemos a realizar el mantenimiento tomando en cuenta las normas de seguridad📝🔍.
